@@ -1,5 +1,5 @@
 # ENVIS1ON
-ENVIS1ON is an exploit founded by RiptideMC, aka oof_TOWN_87 or oofTOWN87. It makes it so that you can browse the web without restrictions on a managed device. (School/Work Chromebook) This trick is quite simple and easy to do, unlike other bypasses on managed devices. THIS EXPLOIT ONLY WORKS ON CHROMEBOOKS! Read on for the exploit!
+ENVIS1ON is an exploit founded by RiptideMC, aka oof_TOWN_87 or oofTOWN87. It lets you can browse the web without restrictions on a managed device. (School/Work Chromebook) This trick is quite simple and easy to do, unlike other bypasses on managed devices. THIS EXPLOIT ONLY WORKS ON CHROMEBOOKS! Read on for the exploit!
 _______________________________________________________________________________________________________________________________________________________
 Forenote: ENVIS1ON was tested on a Dell 3110 Chromebook. There might be differences or bugs on others. NOTE: Dell 3120 Chromebooks also work.
 _______________________________________________________________________________________________________________________________________________________
